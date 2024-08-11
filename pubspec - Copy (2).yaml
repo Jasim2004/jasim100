@@ -1,0 +1,34 @@
+name: partico
+description: "A new Flutter project."
+publish_to: 'none' 
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  stroke_text: ^0.0.3
+  carousel_slider: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  
+  assets:
+    - assets/th (6).jpeg
+    - assets/th (4).jpeg
+    - assets/th (3).jpeg
+    - assets/th (5).jpeg
+    - assets/th.jpeg
+    - assets/th (1).jpeg
+    - assets/WhatsApp Image 2024-08-11 at 17.46.25_a92a6945.jpg
